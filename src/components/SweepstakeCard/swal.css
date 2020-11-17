@@ -1,0 +1,30 @@
+.swal-button {
+  pointer-events: auto;
+  box-sizing: border-box;
+  border-style: solid;
+  font-family: inherit;
+  margin: 0;
+  overflow: visible;
+  text-transform: none;
+  background-image: none;
+  cursor: pointer;
+  line-height: inherit;
+  --bg-opacity: 1;
+  background-color: rgba(88, 80, 236, var(--bg-opacity));
+  border-color: transparent;
+  border-radius: 0.375rem;
+  border-width: 1px;
+  font-weight: 500;
+  font-size: 0.875rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --text-opacity: 1;
+  color: rgba(255, 255, 255, var(--text-opacity));
+  transition-property: background-color, border-color, color, fill, stroke,
+    opacity, box-shadow, transform;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}

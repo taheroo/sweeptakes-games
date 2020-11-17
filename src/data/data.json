@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "gameName": "EFOOTBALL PES 2021",
+    "participants": "48/50",
+    "gameReleaseDate": "Sep 15, 2020",
+    "gameImageUrl": "https://www.konami.com/kde_cms/eu_publish/uploads/mock-visual_pes2021.jpg"
+  },
+  {
+    "id": 2,
+    "gameName": "AMONG US",
+    "participants": "35/50",
+    "gameReleaseDate": "Jun 15, 2018",
+    "gameImageUrl": "https://cdn-wp.thesportsrush.com/2020/10/85669fd1-sxnvbo.png"
+  },
+  {
+    "id": 3,
+    "gameName": "FIFA 21",
+    "participants": "25/50",
+    "gameReleaseDate": "Oct 06, 2020",
+    "gameImageUrl": "https://gmedia.playstation.com/is/image/SIEPDC/fifa-21-standard-edition-pack-01-ps4-ps5-en-20jul20?$native$"
+  },
+  {
+    "id": 4,
+    "gameName": "FALL GUYS",
+    "participants": "4/50",
+    "gameReleaseDate": "Aug 04, 2020",
+    "gameImageUrl": "https://upload.wikimedia.org/wikipedia/en/5/5e/Fall_Guys_cover.jpg"
+  }
+]
